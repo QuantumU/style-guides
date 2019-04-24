@@ -10,6 +10,7 @@ Currently there are styles guides for:
 - [Accessibility](guides/accessibility.md)
 - [Security](guides/security.md)
 - [Web Pages](guides/web-styles.md)
+- [Web APIs](guides/api-styles.md)
 
 In addition, there are the following guides for best practices and workflows:
 - [Git Workflow](guides/git-workflow.md)
