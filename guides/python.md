@@ -118,6 +118,13 @@ Such documentation should be considered a first-class item along side the code.
 That is, it should be executed along with tests to ensure the documentation
 builds correctly and any code examples run properly.
 
+Note also that narrative documentation should be treated as *user*-level documentation.  It
+should therefore include an introduction, some discussion of the context of the 
+software, and usage examples.  While it is possible (and even encouraged in some cases)
+to have that information mostly contained elsewhere, the narrative documentation should
+still be written with a "typical" user in mind, which means they almost certainly
+know much less about the software than you do when writing documentation.
+
 Notebooks can be used as part of the documentation.  They should be considered
 parts of the documentation, however, and in general should be
 included in the automatically built documentation using e.g.,
